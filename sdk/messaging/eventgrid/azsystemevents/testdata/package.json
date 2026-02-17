@@ -9,7 +9,7 @@
   "dependencies": {
     "@azure-tools/typespec-azure-core": "^0.45.0",
     "@azure-tools/typespec-client-generator-core": "^0.45.2",
-    "@azure-tools/typespec-go": "^0.3.1",
+    "@azure-tools/typespec-go": "^0.3.2",
     "@typespec/compiler": "^0.59.1",
     "@typespec/versioning": "^0.59.0",
     "testdata": "^0.1.4"
